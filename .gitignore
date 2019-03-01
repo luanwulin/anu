@@ -11,6 +11,10 @@ selenium-server-*
 xxx.js
 index.css
 stand.js
+.idea/
+scripts/
+test/
+packages/
 
 .DS_Store
 packages/cli/packages/lib/
